@@ -1,0 +1,105 @@
+.main-box 
+{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: "Times New Roman", Times, serif;
+    /*gap: 1rem;*/
+}
+
+.left-box 
+{
+    flex: 1;
+    /*margin: 20px;*/
+    text-align: left;
+    min-width: 20%;
+
+}
+
+.rigth-box 
+{
+    
+    text-align: left;
+    min-width: 80%;
+}
+/*---------------------------------------*/
+.left
+{
+    margin: 0;
+}
+
+.bloque
+{
+    display: block;
+    padding: 15px;
+}
+
+.couple
+{
+    word-break: break-all; 
+    word-wrap: break-word;
+}
+
+.long-text
+{
+    text-indent: -2px;
+}
+
+.rigth-box p, h5, h4, h6
+{
+    margin: 0;
+}
+
+
+#imageprofile
+{
+    width: 40%;
+    border-radius: 50%;
+}
+
+.background-black-t
+{
+    background-color: rgba(32, 32, 32, 0.767);
+}
+
+.background-gray-t
+{
+    background-color: rgba(190, 190, 190, 0.808);
+}
+
+.element-center
+{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.white-text
+{
+    color: #ffffff;
+}
+
+.black-text
+{
+    color: #000000;
+}
+
+#icon_profile
+{
+
+}
+
+#link_profile
+{
+
+}
+
+/*butom---*/
+
+/*
+td
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;;
+}
+*/
