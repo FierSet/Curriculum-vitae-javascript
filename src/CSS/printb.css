@@ -38,11 +38,7 @@
 .show-qr-image
 {
     position: fixed;
-    bottom: 50%;
-    right: 50%;
-    margin: 20px;
-    padding: 10px;
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
