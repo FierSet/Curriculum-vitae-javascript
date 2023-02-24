@@ -20,7 +20,7 @@ export const Datos =
         'cel' :
         [
             <i className = 'fa-solid fa-mobile-screen'></i>, 
-            '442-635-2142'
+            ''
         ],
         'mail' : 
         [
