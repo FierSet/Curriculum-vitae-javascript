@@ -15,7 +15,7 @@ export const Datos =
         'address' : 
         [
             <i className = 'fa-sharp fa-solid fa-location-dot'></i>, //icono
-            'C. 19 #204 Col. Revolución., 76118, Querétaro'
+            'Mexico, Querétaro.'
         ],
         'cel' :
         [
